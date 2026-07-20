@@ -5,3 +5,5 @@ title = 'Hello'
 +++
 
 这是我的第一篇 Hugo 博客文章。通过 GitHub Actions 自动部署到 GitHub Pages。
+
+<!-- deploy trigger -->
